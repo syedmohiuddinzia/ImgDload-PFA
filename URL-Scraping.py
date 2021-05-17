@@ -3,11 +3,11 @@ from urllib.request import Request, urlopen
 import re
 
 # initializing substring
-subs = '18andbusty'
+subs = '___________'
 
 ################################################################
 ################################################################
-req1 = Request("https://www.___________.com/18andbusty")
+req1 = Request("https://www.___________.com/___________")
 html_page = urlopen(req1)
 
 soup = BeautifulSoup(html_page, "lxml")
@@ -18,7 +18,7 @@ for link in soup.findAll('a'):
 #print(links1)
 ################################################################
 ################################################################
-req2 = Request("https://www.___________.com/18andbusty/page/2")
+req2 = Request("https://www.___________.com/___________/page/2")
 html_page = urlopen(req2)
 
 soup = BeautifulSoup(html_page, "lxml")
@@ -29,7 +29,7 @@ for link in soup.findAll('a'):
 #print(links2)
 ################################################################
 ################################################################
-req3 = Request("https://www.___________.com/18andbusty/page/3")
+req3 = Request("https://www.___________.com/___________/page/3")
 html_page = urlopen(req3)
 
 soup = BeautifulSoup(html_page, "lxml")
@@ -40,7 +40,7 @@ for link in soup.findAll('a'):
 #print(links3)
 ################################################################
 ################################################################
-req4 = Request("https://www.___________.com/18andbusty/page/4")
+req4 = Request("https://www.___________.com/___________/page/4")
 html_page = urlopen(req4)
 
 soup = BeautifulSoup(html_page, "lxml")
