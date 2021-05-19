@@ -1,4 +1,36 @@
-# INSTRUCTIONS 
+***____ PFA SCRIPT BY:***  
+***SYED MOHIUDDIN ZIA***  
+***___ 0092 307 2099300***  
+
+# REQUIREMENTS
+
+**1. GITHUB**  
+```
+https://github.com/git-guides/install-git
+```
+**2. PYTHON**
+```
+sudo apt update
+```
+```
+sudo apt install python3
+```
+```
+python3 --version
+```
+**3. PIP**
+```
+sudo apt install python3-pip
+```
+```
+pip3 --version
+```
+**4. LIBRARIES**
+```
+pip3 install -r requirements.txt
+```
+
+# INSTRUCTIONS
 
 **1. DOWNLOAD DIRECTORY USING THE COMMAND**  
 ```
