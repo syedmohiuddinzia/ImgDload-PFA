@@ -63,7 +63,7 @@ new = [k for k in flink if k not in rlink]
 new1 = []
 new1 = new
 for x in range(len(new)) and range(len(new1)):
-        new1[x] = "https://www.pinkfineart.com" + new[x]
+        new1[x] = website + new[x]
         print(new1[x])
 ################## FOR IMPORT TO TXT FILE ######################
 ################################################################
