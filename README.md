@@ -1,31 +1,31 @@
 # INSTRUCTIONS  
 
-**DOWNLOAD DIRECTORY USING THE COMMAND**  
+**1. DOWNLOAD DIRECTORY USING THE COMMAND**  
 ```
 git-clone https://github.com/syedmohiuddinzia/ImgDload-PFA.git  
 ```
 
-**GET ACCESS TO THE DIRECTORY ImgDload-PFA**  
+**2. GET ACCESS TO THE DIRECTORY ImgDload-PFA**  
 ```
 cd ImgDload-PFA  
 ```
 
-**OPEN main.sh**  
+**3. OPEN main.sh**  
 ```
 sudo nano main.sh  
 ```
 
-**EDIT {SUBS, WEBSITE, IRANGE} FIELDS BY ENTERING**  
+**4. EDIT {SUBS, WEBSITE, IRANGE} FIELDS BY ENTERING**  
 *"gallery name" in SUBS*  
 *"website name" in WEBSITE*  
 *"total pages of gallery" in IRANGE*  
 
-**SAVE main.sh**  
+**5. SAVE main.sh**  
 Ctrl + S  
-**CLOSE main.sh**  
+**6. CLOSE main.sh**  
 Ctrl + X  
 
-**RUN main.sh**  
+**7. RUN main.sh**  
 ```
 bash main.sh  
 ```
